@@ -1,5 +1,7 @@
 🍕 Pizza Sales Analysis – MySQL Project
-📌 Project Overview
+📌 Project Overview 
+## 📑 Project Report
+You can view the complete analysis and screenshots in the [Project Report](Pizza_Sales_SQL_Project_final%20(2).pdf).
 
 This project focuses on analyzing pizza sales data using MySQL.
 The goal is to derive insights such as:
